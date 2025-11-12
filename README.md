@@ -26,4 +26,4 @@ Please see the code ```task_pathocls_prediction.py```
 Some visulization tools are provided. For tissue detection and subtype prediction, we make it visible and were able to mark it in different colors after model inference.
 Please see the code in visulization folder.
 
-The pre-trained model weights are public in model_weights folder, 
+The pre-trained model weights are public in model_weights folder.
