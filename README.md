@@ -1,3 +1,3 @@
 # full-stackRENAL
 AI empowers full-stack smart diagnosis
-![image]overview.png
+![overview.png](https://github.com/Green8023/full-stackRENAL/blob/main/overview.png)
